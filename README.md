@@ -1,2 +1,3 @@
-# perturb-seq-webster
-Spare dictionary learning with genome-scale perturb-seq data
+# Perturb-seq Sparse Dictionary Learning
+
+Code for 18.051 project using dual-graph-regularized sparse dictionary learning to discover transcriptional program in Perturb-seq data. Dual graph_dictionary_learning MATLAB code is from https://github.com/joshbiology/graph_dictionary_learning.
